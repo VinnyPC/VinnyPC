@@ -15,6 +15,15 @@
 ###
 
 <div align="center">
+  <a href="https://github.com/VinnyPC">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VinnyPC&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyPC&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
   <a href="https://discord.com/channels/Vinisilvax#5006"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
   <a href="https://wa.me/5511990244686"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="whatsapp logo"  />
   <a href="https://www.linkedin.com/in/vinicius-s-98934a13b/ target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
