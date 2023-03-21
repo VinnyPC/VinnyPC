@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47tgn7m5dv4z3k4xk1hqkuvg9myfiqry67zybgaeq0&rid=giphy.gif&ct=g"  />
+  <img height="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/programming-1.gif"  />
 </div>
 
 ###
@@ -34,5 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="45" width="60" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="git logo"  />
 </div>
-
-###
+                                                                                                                                           
