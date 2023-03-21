@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VinnyPC/VinnyPC/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/V/V/blob/output/snake.svg" alt="Snake animation" />
 
 ###
