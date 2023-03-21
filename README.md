@@ -6,7 +6,9 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img height="200" src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47tgn7m5dv4z3k4xk1hqkuvg9myfiqry67zybgaeq0&rid=giphy.gif&ct=g"  />
 </div>
 
@@ -38,13 +40,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=V&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=default&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V&locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/V/V/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VinnyPC/VinnyPC/blob/output/snake.svg" alt="Snake animation" />
 
 ###
