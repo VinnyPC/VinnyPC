@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Vinicius e atualmente estou estudando desenvolvimento Java no bootcamp da Generation Brasil. Descobri recentemente minha paixão pela linguagem da xicara de café ☕❤</h3>
+<h4 align="left">Olá! Meu nome é Vinicius e atualmente estou estudando desenvolvimento Java no bootcamp da Generation Brasil. Descobri recentemente minha paixão pela linguagem da xicara de café ☕❤</h4>
 
 ###
 
