@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=VinnyPC&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hello World! ✌🏽✨</h1>
 
 ###
@@ -38,6 +39,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="45" width="60" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="git logo"  />
 </div>
+                                                                                                                                
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VinnyPC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VinnyPC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyPC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)                                                                                                                                
+
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                                                                                                                               
+                                                                                                                                
+                                                                                                                                
+                                                                                                                               
+
                                                                                                                                 
 
 
