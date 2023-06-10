@@ -3,7 +3,11 @@
 
 ###
 
-<h4 align="left">Olá! Meu nome é Vinicius e atualmente estou estudando para me tornar um desenvolvedor Fullstack Java no bootcamp da <a href="https://brazil.generation.org/"> Generation Brasil.</a> Descobri recentemente minha paixão pela linguagem da xicara de café ☕❤</h4>
+<h4 align="left">Bem-vindo ao meu laboratório, caro desconhecido! Ah, não se preocupe, sou apenas um programador maluco, mas não tenho más intenções. Venha, entre e sinta-se à vontade 
+para explorar minhas criações e engenhocas tecnológicas! Ah, antes que eu me esqueça, aceita uma xícara de café ☕? é um café extraforte, sem açúcar, feito para programadores!</br>
+</br>
+Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbravar novos territórios e criar soluções inovadoras. Quem sabe, você possa até mesmo descobrir algo revolucionário no processo.
+</h4>
 
 ###
 
