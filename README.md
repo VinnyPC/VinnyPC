@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=VinnyPC&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=VinnyPC)
 <h1 align="center">Hello World! ✌🏽✨</h1>
 
 ###
