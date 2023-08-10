@@ -33,29 +33,26 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" width="60" alt="javascript logo" />
-                                                                                                                                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="45" width="60" alt="bootstrap logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="45" width="60" alt="css3 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="45" width="60" alt="html5 logo" />
+                                                                                                                                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 <!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" width="60" alt="java logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="45" width="60" alt="nodejs logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" width="60" alt="git logo" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" alt="python" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="45" width="60" alt="java logo" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Junit" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" alt="swagger" width="40" height="40"/>
+
 
 <!-- Banco de Dados -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" width="60" alt="mysql logo" />
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" height="45" width="60" alt="mysql logo" />
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" width="40" alt="git logo" />
 
 <!-- Outros -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="45" width="60" alt="vscode logo" />
 <img src="https://www.arelion.com/dam/jcr:14aeb80a-b12c-4eff-8842-7b8b7b627aec/AWS.png" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" alt="render" width="40" height="40"/>
-<img src="https://media.zeemly.com/media/product/vercel.png" alt="vercel" width="40" height="40"/>
+
 </div>
                                                                                                                                 
 # 📊 GitHub Stats:
