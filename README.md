@@ -14,7 +14,7 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.postimg.cc/j28frDjB/fotor-2023-5-26-17-22-13.jpg"  />
+  <img height="400" src="https://i.postimg.cc/cL10fW8R/20230810-184658.jpg"  />
 </div>
 
 ###
