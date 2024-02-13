@@ -13,9 +13,7 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 
 <br clear="both">
 
-<div align="center">
-  <img height="400" src="https://i.postimg.cc/cL10fW8R/20230810-184658.jpg"  />
-</div>
+
 
 ###
 
