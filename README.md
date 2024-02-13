@@ -62,7 +62,7 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
                                                                                                                                 
 # 📊 GitHub Stats:
                                                                                                                     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyPC&theme=dark&hide_border=false&layout=compact)   ![](https://github-readme-streak-stats.herokuapp.com/?user=VinnyPC&theme=dark&hide_border=false)  ![](https://github-readme-stats.vercel.app/api?username=VinnyPC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)                                                                                                              
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyPC&theme=dark&hide_border=false&layout=compact)   ![](https://github-readme-streak-stats.herokuapp.com/?user=VinnyPC&theme=dark&hide_border=false)                                                                                                                
 
 
 
