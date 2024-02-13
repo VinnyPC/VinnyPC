@@ -11,6 +11,10 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 
 ###
 
+<div align="center">
+  <img height="400" src="https://c4.wallpaperflare.com/wallpaper/477/867/592/dedsec-hacking-watch-dogs-watch-dogs-2-wallpaper-preview.jpg"  />
+</div>
+
 <br clear="both">
 
 
