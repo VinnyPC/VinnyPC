@@ -12,7 +12,7 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 ###
 
 <div align="center">
-  <img height="180" src="https://www.speedrun.com/static/user/pj079orx/image.gif?v=f81547e"  />
+  <img  src="https://s9.gifyu.com/images/SFLvc.gif"  />
 </div>
 
 
