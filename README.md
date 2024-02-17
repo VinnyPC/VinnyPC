@@ -42,10 +42,11 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 
 <!-- Backend -->
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" alt="python" width="40" height="40"/>
+<img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="45" width="60" alt="java logo" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Junit" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" alt="swagger" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/>
 
 
 <!-- Banco de Dados -->
