@@ -51,11 +51,11 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 
 <!-- Banco de Dados -->
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" height="45" width="60" alt="mysql logo" />
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" width="40" alt="git logo" />
+
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="40" width="40" alt="mongodb" />
 
 <!-- Outros -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="45" width="60" alt="vscode logo" />
+
 <img src="https://www.arelion.com/dam/jcr:14aeb80a-b12c-4eff-8842-7b8b7b627aec/AWS.png" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 
