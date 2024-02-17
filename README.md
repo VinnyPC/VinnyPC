@@ -65,7 +65,9 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyPC&theme=dark&hide_border=false&layout=compact)   ![](https://github-readme-streak-stats.herokuapp.com/?user=VinnyPC&theme=dark&hide_border=false)                                                                                                                
 
 
+### GitHub Activity
 
+![Snake animation](https://github.com/VinnyPC/VinnyPC/blob/output/github-contribution-grid-snake.svg)
                                                                                                                                 
 
 
