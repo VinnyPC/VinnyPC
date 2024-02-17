@@ -12,7 +12,7 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 ###
 
 <div align="center">
-  <img height="400" src="https://media1.tenor.com/m/Os3TyORtzpgAAAAC/winnie-the.gif"  />
+  <img height="180" src="https://www.speedrun.com/static/user/pj079orx/image.gif?v=f81547e"  />
 </div>
 
 
