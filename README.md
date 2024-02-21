@@ -9,11 +9,6 @@ para explorar minhas criações e engenhocas tecnológicas! Ah, antes que eu me 
 Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbravar novos territórios e criar soluções inovadoras. Quem sabe, você possa até mesmo descobrir algo revolucionário no processo.</i>
 </h4>
 
-<div align="center">
-  <a href="URL_DO_SEU_LINK_AQUI">
-    <img src="https://s9.gifyu.com/images/SFLvc.gif" />
-  </a>
-</div>
 
 ###
 
