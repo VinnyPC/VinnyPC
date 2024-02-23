@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=VinnyPC)
-<h1 align="center">Hello World! ✌🏽✨</h1>
+<h1 align="center">Hello World!✨<a href="https://www.pudim.com.br/">🍮</a></h1>
 
 ###
 
 <h4 align="left"><i>Bem-vindo ao meu laboratório, caro desconhecido! Ah, não se preocupe, sou apenas um programador maluco, mas não tenho más intenções. Venha, entre e sinta-se à vontade 
-para explorar minhas criações e engenhocas tecnológicas! Ah, antes que eu me esqueça, aceita uma xícara de café ☕? é um café extraforte, sem <a href="https://www.pudim.com.br/"> açúcar</a>, feito para programadores!</br>
+para explorar minhas criações e engenhocas tecnológicas! Ah, antes que eu me esqueça, aceita uma xícara de café ☕? é um café extraforte, sem açúcar, feito para programadores!</br>
 </br>
 Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbravar novos territórios e criar soluções inovadoras. Quem sabe, você possa até mesmo descobrir algo revolucionário no processo.</i>
 </h4>
@@ -13,7 +13,7 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 ###
 
 <div align="center">
-  <img  src="https://s9.gifyu.com/images/SFLvc.gif"  />
+  <img  src="https://media.tenor.com/R7JF4cuIjogAAAAi/spongebob-spongebob-meme.gif"  />
 </div>
 
 
