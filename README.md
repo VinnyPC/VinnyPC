@@ -12,8 +12,8 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 
 ###
 
-<div align="center">
-  <img  src="https://media.tenor.com/R7JF4cuIjogAAAAi/spongebob-spongebob-meme.gif"  />
+<div   align="center">
+  <img  height="150" src="https://s9.gifyu.com/images/SFlGn.gif"  />
 </div>
 
 
