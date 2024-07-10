@@ -37,11 +37,11 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 
 ###
 
-<div align="center">
+<!--<div align="center">
                                                                                                                                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-<!-- Backend -->
+<!-- Backend 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp" alt="python" width="40" height="40"/>
 <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" height="45" width="60" alt="java logo" />
@@ -50,17 +50,18 @@ Seja curioso, experimente, divirta-se! Lembre-se, a programação é sobre desbr
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/>
 
 
-<!-- Banco de Dados -->
+<!-- Banco de Dados 
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" height="45" width="60" alt="mysql logo" />
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="40" width="40" alt="mongodb" />
 
-<!-- Outros -->
+<!-- Outros 
 
 <img src="https://www.arelion.com/dam/jcr:14aeb80a-b12c-4eff-8842-7b8b7b627aec/AWS.png" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 
-</div>
+</div>-->
+[![My Skills](https://skillicons.dev/icons?i=sass,js,ts,angular,react,nodejs,materialui,aws,py,django,java,spring,mysql,postgres,mongodb,)](https://skillicons.dev)
                                                                                                                                 
 # 📊 GitHub Stats:
                                                                                                                     
